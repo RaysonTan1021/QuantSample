@@ -25,7 +25,3 @@ These are some research output I've done back in 2024 / Q1 2025 using the approa
 ![fixed_split](./images/alpha_fixed_split.png)
 ![fixed_split](./images/alpha_fixed_split(bad).png)
 ![rolling_split](./images/alpha_rolling_split.png)
-
-
-
-
