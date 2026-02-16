@@ -1,0 +1,114 @@
+# ================================
+# 🐍 Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python build / distribution
+build/
+dist/
+develop-eggs/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# ================================
+# 🧠 Data / ML
+# ================================
+data/
+datasets/
+*.csv
+*.parquet
+*.feather
+*.h5
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+*.pt
+*.onnx
+*.hdf5
+mlruns/
+wandb/
+checkpoints/
+logs/
+
+# ================================
+# 🧪 Experiment artifacts
+# ================================
+runs/
+outputs/
+results/
+tmp/
+temp/
+*.log
+
+# ================================
+# 🧰 OS / Editor (macOS)
+# ================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# ================================
+# 🐳 Docker
+# ================================
+*.pid
+docker-compose.override.yml
+
+# ================================
+# ☁️ Credentials / Secrets
+# ================================
+*.env
+*.pem
+*.key
+*.crt
+secrets/
+config.local.*
+
+# ================================
+# 🧾 Misc
+# ================================
+*.swp
+*.swo
+*~
