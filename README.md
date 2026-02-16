@@ -18,5 +18,14 @@ I've built this tool to solve menial everyday tasks that require expensive manpo
 
 https://github.com/user-attachments/assets/4398ec1c-a259-4244-851c-030471c33e5e
 
+## Basic Quant Research 
+
+These are some research output I've done back in 2024 / Q1 2025 using the approach of algorithmic CTA. 
+
+![fixed_split](./images/alpha_fixed_split.png)
+![fixed_split](./images/alpha_fixed_split(bad).png)
+![rolling_split](./images/alpha_rolling_split.png)
+
+
 
 
