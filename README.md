@@ -16,5 +16,6 @@ Finding alpha on it's own is not enough, as market regimes tend to change, under
 
 I've built this tool to solve menial everyday tasks that require expensive manpower, even before the current openclaw project went viral. The backbone of the system isn't AI. It does not have an LLM orchestration layer. It operates by managing it's own instance of chromium / chrome drivers. This allows the "agent" to automate browser actions. Think of it as a "programatic" version of OpenClaw where it can be systematically integrated as a datasource service, or "agent". 
 
+https://github.com/user-attachments/assets/09adff23-3fc1-4dcd-b9a9-f605ea24047e
 
 
