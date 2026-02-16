@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/4398ec1c-a259-4244-851c-030471c33e5e
 
 ## Basic Quant Research 
 
-These are some research output I've done back in 2024 / Q1 2025 using the approach of algorithmic CTA. 
+These are some research output I've done back in 2024 / Q1 2025 using the approach of algorithmic CTA, integrated with alternative datasource providers. 
 
 ![fixed_split](./images/alpha_fixed_split.png)
 ![fixed_split](./images/alpha_fixed_split(bad).png)
