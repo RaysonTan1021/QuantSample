@@ -10,7 +10,7 @@ I've attached sample scripts of my code logic that has been implemented since 20
 
 Finding alpha on it's own is not enough, as market regimes tend to change, underlying data distributions shift. That is why the first step to creating truly profitable trading systems is through some sort of "active monitoring", and we do that by first having reliable data infrastructures /  systems in place. This can be generalized across different business functions, such as factor monitoring, strategy/portfolio monitoring, etc... 
 
-![Dashboard Screenshot](./images/dashboard.png)
+![Dashboard Screenshot](./resources/images/dashboard.png)
 
 ## Browser Automation (OpenClaw Lookalike)
 
