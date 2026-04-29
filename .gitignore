@@ -38,14 +38,11 @@ coverage.xml
 
 # Jupyter
 .ipynb_checkpoints
-*.ipynb
 
 # ================================
 # 🧠 Data / ML
 # ================================
-data/
 datasets/
-*.csv
 *.parquet
 *.feather
 *.h5
